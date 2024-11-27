@@ -15,8 +15,6 @@ This is a backend service built with **Express.js** and **MongoDB** to manage us
 2. [API Routes](#api-routes)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Technologies Used
 
