@@ -107,10 +107,12 @@ To get started with this project locally, follow the steps below:
 
     ```bash
     MONGODB_URI=<Mongodb_connection_string>
+    JWT_SECRET=<YOUR_JWT_SECRET>
     PORT=5000
     ```
 
 - Replace Mongodb_connection_string with the actual connection string of your MongoDB database.
+- Replace the YOUR_JWT_SECRET with your jwt secret for verification.
 - Set the port to whatever you prefer (default is 5000).
 
 4. **Run the service:**
